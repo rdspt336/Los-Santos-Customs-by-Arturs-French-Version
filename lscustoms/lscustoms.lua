@@ -1921,7 +1921,7 @@ function ButtonSelected(button)
 		elseif button.name == "Ailes" then
 			SetVehicleModKit(car,0)
 			OpenMenu("fenders")
-		elseif button.name == "Hood" then
+		elseif button.name == "Capot" then
 			SetVehicleModKit(car,0)
 			OpenMenu("hood")
 		elseif button.name == "Klaxons" then
