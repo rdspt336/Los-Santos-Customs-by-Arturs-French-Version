@@ -723,7 +723,7 @@ local lsc = {
 				{name = "Suv", wtype = 3, description = "", centre = 0, font = 0, scale = 0.4},
 				{name = "Offroad", wtype = 4, description = "", centre = 0, font = 0, scale = 0.4},
 				{name = "Tuner", wtype = 5, description = "", centre = 0, font = 0, scale = 0.4},
-				{name = "Luxe", wtype = 7, description = "", centre = 0, font = 0, scale = 0.4},
+				{name = "Highend", wtype = 7, description = "", centre = 0, font = 0, scale = 0.4},
 			}
 		},
 		["sport"] = { 
